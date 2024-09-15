@@ -1,4 +1,14 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Muhammad Darrel Azmi Tauhid**.<br>
+
+Saya seorang **Mahasiswa** di [IPB University](https://www.ipb.ac.id/).<br>
+
+Saya menjadi salah satu anggota [Himalkom IPB](https://www.himalkom-ipb.com).<br>
+
+Saya juga berkontribusi dalam mengembangkan aplikasi [SO-FEED Formulation](https://www.youtube.com/watch?v=99dNrfqMLQ8).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/darrelazmi/)ku ya.
 
 <!--
 **darrelazmi/darrelazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
